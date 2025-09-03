@@ -15,4 +15,4 @@ jobs:
       - name: Trivy
         uses: ConsenSys/github-actions/trivy@main
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ 183314ea2ae482e13a6fbe583f523fdd9768759f }}
